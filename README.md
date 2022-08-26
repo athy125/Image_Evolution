@@ -1,11 +1,11 @@
 ## Evolving Images or Pattern Using Genetic Algorithm
 
-Genetic Algorithm is Used to evolve either any random or a smiley(Predefined in program "Hardcoded").
+The genetic algorithm is used to evolve any randomized or smiling (Predefined in programme "Hardcoded"). 
 
-Feel free to change different parameters like mutation rate, population size etc and see how the evolution gets affected.
+Change the parameters such as mutation rate, population size, and so on to see how the evolution changes. 
 
-To Evolve a random pattern, uncomment line 217, and comment 218, and for evolving Smiley image, comment 217 and uncomment line 218!
+Uncomment lines 217 and 218 to evolve a random pattern, and comment 217 and uncomment line 218 to evolve a Smiley image! 
 
-You can see the demo of the Evolution of Smiley below:
+The Evolution of Smiley demo is available below:
 
 <p align="center"> <img src="evolving-image-pattern-demo.gif"/> </p>
